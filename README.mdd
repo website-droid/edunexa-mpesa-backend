@@ -1,8 +1,0 @@
-# EduNexa M-PESA Backend
-
-This is the backend for EduNexa school management system.
-
-## Endpoints:
-- POST /api/stkpush - Initiate STK Push payment
-- POST /api/checkstatus - Check payment status
-- GET /api/health - Health check
